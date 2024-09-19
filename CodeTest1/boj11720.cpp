@@ -1,6 +1,6 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
-//¼ıÀÚ ÇÕ ±¸ÇÏ±â
+//ìˆ«ì í•© êµ¬í•˜ê¸°
 int main()
 {
 	int Num;
