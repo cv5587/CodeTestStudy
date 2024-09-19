@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\CodeTest\\CodeTest1\\CodeTest1\\",
+  "WorkspaceRootPath": "C:\\CodeTest\\CodeTestStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB56718A-9E75-4B3C-9570-B7B846C5C63B}|CodeTest1\\CodeTest1.vcxproj|C:\\CodeTest\\CodeTest1\\CodeTest1\\CodeTest1\\boj11720.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FB56718A-9E75-4B3C-9570-B7B846C5C63B}|CodeTest1\\CodeTest1.vcxproj|C:\\CodeTest\\CodeTestStudy\\CodeTest1\\boj1546.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB56718A-9E75-4B3C-9570-B7B846C5C63B}|CodeTest1\\CodeTest1.vcxproj|solutionrelative:CodeTest1\\boj1546.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB56718A-9E75-4B3C-9570-B7B846C5C63B}|CodeTest1\\CodeTest1.vcxproj|C:\\CodeTest\\CodeTestStudy\\CodeTest1\\boj11720.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB56718A-9E75-4B3C-9570-B7B846C5C63B}|CodeTest1\\CodeTest1.vcxproj|solutionrelative:CodeTest1\\boj11720.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "boj1546.cpp",
+              "DocumentMoniker": "C:\\CodeTest\\CodeTestStudy\\CodeTest1\\boj1546.cpp",
+              "RelativeDocumentMoniker": "CodeTest1\\boj1546.cpp",
+              "ToolTip": "C:\\CodeTest\\CodeTestStudy\\CodeTest1\\boj1546.cpp",
+              "RelativeToolTip": "CodeTest1\\boj1546.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T07:25:03.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "boj11720.cpp",
-              "DocumentMoniker": "C:\\CodeTest\\CodeTest1\\CodeTest1\\CodeTest1\\boj11720.cpp",
+              "DocumentMoniker": "C:\\CodeTest\\CodeTestStudy\\CodeTest1\\boj11720.cpp",
               "RelativeDocumentMoniker": "CodeTest1\\boj11720.cpp",
-              "ToolTip": "C:\\CodeTest\\CodeTest1\\CodeTest1\\CodeTest1\\boj11720.cpp",
+              "ToolTip": "C:\\CodeTest\\CodeTestStudy\\CodeTest1\\boj11720.cpp",
               "RelativeToolTip": "CodeTest1\\boj11720.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBQAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA8AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-19T06:00:29.201Z",
               "EditorCaption": ""
