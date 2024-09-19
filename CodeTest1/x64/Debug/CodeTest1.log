@@ -1,5 +1,1 @@
-﻿  boj11720.cpp
-  boj1546.cpp
-  코드를 생성하고 있습니다...
-boj1546.obj : error LNK2005: main이(가) boj11720.obj에 이미 정의되어 있습니다.
-C:\CodeTest\CodeTest1\CodeTest1\x64\Debug\CodeTest1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
+﻿  CodeTest1.vcxproj -> C:\CodeTest\CodeTest1\CodeTest1\x64\Debug\CodeTest1.exe
