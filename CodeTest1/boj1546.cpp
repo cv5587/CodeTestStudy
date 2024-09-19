@@ -28,7 +28,8 @@ int main()
 	cout << result;
 }
 #pragma endregion
-
+//조금더 생각하고 쓰기 쉬운 vector를 쓸려고만 하지말고 기본적으로 더 짧게 할수 있으면 짧게 가보자
+//cin 같은 경우에는 띄어쓰기도 1회로 인정을 해주기 때문에 띄어쓰기 있다고 getline을 쓰지말자
 
 #pragma region 내가푼거
 /*
