@@ -13,19 +13,31 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\1장">
+      <UniqueIdentifier>{1b2f285d-bc96-4250-9495-7d0238c847bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2장">
+      <UniqueIdentifier>{6529c4bd-63ea-4376-98f9-8a6f117bf1db}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="boj1546.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1장</Filter>
     </ClCompile>
-    <ClCompile Include="boj11720.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="boj10986.cpp">
+      <Filter>소스 파일\1장</Filter>
     </ClCompile>
     <ClCompile Include="boj11659.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1장</Filter>
     </ClCompile>
     <ClCompile Include="boj11660.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1장</Filter>
+    </ClCompile>
+    <ClCompile Include="boj11720.cpp">
+      <Filter>소스 파일\1장</Filter>
+    </ClCompile>
+    <ClCompile Include="boj2018.cpp">
+      <Filter>소스 파일\2장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
