@@ -39,8 +39,11 @@
     <ClCompile Include="boj2018.cpp">
       <Filter>소스 파일\2장</Filter>
     </ClCompile>
+    <ClCompile Include="boj1253.cpp">
+      <Filter>소스 파일\2장</Filter>
+    </ClCompile>
     <ClCompile Include="boj1940.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
