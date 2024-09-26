@@ -51,5 +51,8 @@
     <ClCompile Include="boj11003.cpp">
       <Filter>소스 파일\2장</Filter>
     </ClCompile>
+    <ClCompile Include="boj1874.cpp">
+      <Filter>소스 파일\2장</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
