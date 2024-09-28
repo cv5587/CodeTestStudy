@@ -8,32 +8,59 @@ int main()
 	cin.tie(nullptr);
 	cout.tie(nullptr);
 
-	stack<int> S;
-	string Word;
-
 	int N;
-	int L=0;
 	cin >> N;
+
+	vector<int> A(N, 0);
+	vector<char> resultV;
 
 	for (int i = 0; i < N; i++)
 	{
-		int A;
-		cin >> A;
-
+		cin >> A[i];
 	}
 
-	if (0 == S.size())
+	stack<int> myStack;
+	int num = 1;
+	bool result = true;
+
+	for (int i = 0; i < A.size(); i++)
 	{
-		cout << "NO" << "\n";
+		int su = A[i];
 
-		return 0;
+		if (su >= num)
+		{
+			while (su>=num)
+			{
+				myStack.push(num++);
+				resultV.push_back('+');
+			}
+			myStack.pop();
+			resultV.push_back('-');
+		}
+		else
+		{
+			int n = myStack.top();
+			myStack.pop();
+
+			if (n > su)
+			{
+				cout << "NO";
+				result = false;
+				break;
+			}
+			else
+			{
+				resultV.push_back('-');
+			}
+		}
+
 	}
 
-	for (int i = 0; i < Word.length()-1; i++)
-	{
-		cout << Word[i] << "\n";
+	if (result) {
+		for (int i = 0; i < resultV.size(); i++)
+		{
+			cout << resultV[i] << '\n';
+		}
 	}
-
-
 }
 
