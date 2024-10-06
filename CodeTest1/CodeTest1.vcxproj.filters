@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\2장">
       <UniqueIdentifier>{6529c4bd-63ea-4376-98f9-8a6f117bf1db}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\3장">
+      <UniqueIdentifier>{e49e51b2-77e2-4b7b-946a-e45a10b2db35}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="boj1546.cpp">
@@ -65,6 +68,9 @@
     </ClCompile>
     <ClCompile Include="base.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="boj2750.cpp">
+      <Filter>소스 파일\3장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
