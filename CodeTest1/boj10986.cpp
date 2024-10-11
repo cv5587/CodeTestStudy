@@ -29,6 +29,7 @@ int main()
 	{
 		int remainder = S[i] % M;
 
+		//0인 자체가 0부터 i까지의 구간 합이 이미 M으로 나누어 떨어진다는 뜻임
 		if (0 == remainder)
 			Result++;
 
@@ -38,6 +39,7 @@ int main()
 	{
 		if (C[i] > 1) {
 			Result = Result + (C[i] * (C[i] - 1) / 2);
+			//C[j]개 중에 2개를 뽑는 경우의수 계산 공식 -> C[i]*(C[i]-1)/2
 		}
 	}
 	cout << Result << "\n";
