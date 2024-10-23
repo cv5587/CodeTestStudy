@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\3장">
       <UniqueIdentifier>{e49e51b2-77e2-4b7b-946a-e45a10b2db35}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\6장_그리디">
+      <UniqueIdentifier>{40c0fbbe-7be0-4724-8a9d-83434adc3fe7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="boj1546.cpp">
@@ -71,6 +74,12 @@
     </ClCompile>
     <ClCompile Include="boj2750.cpp">
       <Filter>소스 파일\3장</Filter>
+    </ClCompile>
+    <ClCompile Include="boj11047.cpp">
+      <Filter>소스 파일\6장_그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="boj1715.cpp">
+      <Filter>소스 파일\6장_그리디</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
