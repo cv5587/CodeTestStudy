@@ -81,5 +81,8 @@
     <ClCompile Include="boj1715.cpp">
       <Filter>소스 파일\6장_그리디</Filter>
     </ClCompile>
+    <ClCompile Include="boj1744.cpp">
+      <Filter>소스 파일\6장_그리디</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

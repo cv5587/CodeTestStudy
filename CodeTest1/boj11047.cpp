@@ -16,27 +16,27 @@ int main() {
 	cin.tie(nullptr);
 	cout.tie(nullptr);
 
-
 	int N, K;
+
 	cin >> N >> K;
+
 	vector<int> A(N);
 
 	for (int i = 0; i < N; i++)
 	{
 		cin >> A[i];
 	}
-
 	int count = 0;
-	//반대부터 찾기
-	for (int i = N-1; i >=0; i--)
+	for (int i = N-1; i >= 0; i--)
 	{
 		if (A[i] <= K)
 		{
 			count += (K / A[i]);
 			K = K % A[i];
 		}
-	}
-	cout << count << "\n";
 
+	}
+
+	cout << count << "\n";
 
 }
