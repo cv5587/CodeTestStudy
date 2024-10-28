@@ -9,7 +9,7 @@ int main()
 	cout.tie(nullptr);
 
 	int N;
-
+//작업 테스트
 	cin >> N;
 
 	queue<int> A;
