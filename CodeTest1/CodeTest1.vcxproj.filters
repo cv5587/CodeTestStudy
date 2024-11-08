@@ -13,67 +13,52 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\1장">
-      <UniqueIdentifier>{1b2f285d-bc96-4250-9495-7d0238c847bb}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\2장">
-      <UniqueIdentifier>{6529c4bd-63ea-4376-98f9-8a6f117bf1db}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\3장">
-      <UniqueIdentifier>{e49e51b2-77e2-4b7b-946a-e45a10b2db35}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\6장_그리디">
       <UniqueIdentifier>{40c0fbbe-7be0-4724-8a9d-83434adc3fe7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\8장그래프">
+      <UniqueIdentifier>{164f4a7f-9797-4538-bab4-0c4dbf2c8ab2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4장정렬">
+      <UniqueIdentifier>{e49e51b2-77e2-4b7b-946a-e45a10b2db35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3장 자료구조">
+      <UniqueIdentifier>{6529c4bd-63ea-4376-98f9-8a6f117bf1db}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="boj1546.cpp">
-      <Filter>소스 파일\1장</Filter>
-    </ClCompile>
-    <ClCompile Include="boj10986.cpp">
-      <Filter>소스 파일\1장</Filter>
-    </ClCompile>
-    <ClCompile Include="boj11659.cpp">
-      <Filter>소스 파일\1장</Filter>
-    </ClCompile>
-    <ClCompile Include="boj11660.cpp">
-      <Filter>소스 파일\1장</Filter>
-    </ClCompile>
-    <ClCompile Include="boj11720.cpp">
-      <Filter>소스 파일\1장</Filter>
-    </ClCompile>
     <ClCompile Include="boj2018.cpp">
-      <Filter>소스 파일\2장</Filter>
+      <Filter>소스 파일\3장 자료구조</Filter>
     </ClCompile>
     <ClCompile Include="boj1253.cpp">
-      <Filter>소스 파일\2장</Filter>
+      <Filter>소스 파일\3장 자료구조</Filter>
     </ClCompile>
     <ClCompile Include="boj1940.cpp">
-      <Filter>소스 파일\2장</Filter>
+      <Filter>소스 파일\3장 자료구조</Filter>
     </ClCompile>
     <ClCompile Include="boj12891.cpp">
-      <Filter>소스 파일\2장</Filter>
+      <Filter>소스 파일\3장 자료구조</Filter>
     </ClCompile>
     <ClCompile Include="boj11003.cpp">
-      <Filter>소스 파일\2장</Filter>
+      <Filter>소스 파일\3장 자료구조</Filter>
     </ClCompile>
     <ClCompile Include="boj1874.cpp">
-      <Filter>소스 파일\2장</Filter>
+      <Filter>소스 파일\3장 자료구조</Filter>
     </ClCompile>
     <ClCompile Include="boj17298.cpp">
-      <Filter>소스 파일\2장</Filter>
+      <Filter>소스 파일\3장 자료구조</Filter>
     </ClCompile>
     <ClCompile Include="boj2164.cpp">
-      <Filter>소스 파일\2장</Filter>
+      <Filter>소스 파일\3장 자료구조</Filter>
     </ClCompile>
     <ClCompile Include="boj11286.cpp">
-      <Filter>소스 파일\2장</Filter>
+      <Filter>소스 파일\3장 자료구조</Filter>
     </ClCompile>
     <ClCompile Include="base.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="boj2750.cpp">
-      <Filter>소스 파일\3장</Filter>
+      <Filter>소스 파일\4장정렬</Filter>
     </ClCompile>
     <ClCompile Include="boj11047.cpp">
       <Filter>소스 파일\6장_그리디</Filter>
@@ -83,6 +68,45 @@
     </ClCompile>
     <ClCompile Include="boj1744.cpp">
       <Filter>소스 파일\6장_그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="boj18352.cpp">
+      <Filter>소스 파일\8장그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="boj1753.cpp">
+      <Filter>소스 파일\8장그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="boj1546.cpp">
+      <Filter>소스 파일\3장 자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="boj10986.cpp">
+      <Filter>소스 파일\3장 자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="boj11659.cpp">
+      <Filter>소스 파일\3장 자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="boj11660.cpp">
+      <Filter>소스 파일\3장 자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="boj11720.cpp">
+      <Filter>소스 파일\3장 자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="test1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test6.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="boj2751.cpp">
+      <Filter>소스 파일\3장 자료구조</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
