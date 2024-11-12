@@ -73,6 +73,7 @@ void merge_sort(int s, int e)
 		k++;
 		index1++;
 	}
+
 	while (index2 <= e)
 	{
 		A[k] = tmp[index2];

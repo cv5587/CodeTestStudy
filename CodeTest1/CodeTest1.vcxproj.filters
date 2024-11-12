@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\3장 자료구조">
       <UniqueIdentifier>{6529c4bd-63ea-4376-98f9-8a6f117bf1db}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\5장_탐색">
+      <UniqueIdentifier>{821972d0-d401-4ecd-8fbb-f778b6282726}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="boj2018.cpp">
@@ -107,6 +110,15 @@
     </ClCompile>
     <ClCompile Include="boj2751.cpp">
       <Filter>소스 파일\3장 자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="boj1517.cpp">
+      <Filter>소스 파일\3장 자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="boj11724.cpp">
+      <Filter>소스 파일\5장_탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="boj2023.cpp">
+      <Filter>소스 파일\5장_탐색</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
