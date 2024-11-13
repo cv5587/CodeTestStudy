@@ -120,5 +120,11 @@
     <ClCompile Include="boj2023.cpp">
       <Filter>소스 파일\5장_탐색</Filter>
     </ClCompile>
+    <ClCompile Include="boj13023.cpp">
+      <Filter>소스 파일\5장_탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="boj1260.cpp">
+      <Filter>소스 파일\5장_탐색</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
