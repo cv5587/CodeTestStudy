@@ -67,7 +67,7 @@ void BFS(int n)
 
 		cout << now_node << " ";
 
-		for (int i : A[now_node])
+		for (int i : A[now_node])	//A 가 가지고 있는걸 넣는다
 		{
 			if (!visited[i])
 			{
