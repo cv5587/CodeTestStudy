@@ -28,6 +28,15 @@
     <Filter Include="소스 파일\5장_탐색">
       <UniqueIdentifier>{821972d0-d401-4ecd-8fbb-f778b6282726}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\5장_탐색\이진탐색">
+      <UniqueIdentifier>{bbe26fec-8481-49b2-bbf0-ab5882457084}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\5장_탐색\BFS">
+      <UniqueIdentifier>{1a73f927-66d2-4fe3-96a3-fc71c6a536ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\5장_탐색\DFS">
+      <UniqueIdentifier>{accbbcaf-a904-48d6-9a4c-c8b825db099f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="boj2018.cpp">
@@ -114,26 +123,29 @@
     <ClCompile Include="boj1517.cpp">
       <Filter>소스 파일\3장 자료구조</Filter>
     </ClCompile>
-    <ClCompile Include="boj11724.cpp">
-      <Filter>소스 파일\5장_탐색</Filter>
-    </ClCompile>
-    <ClCompile Include="boj2023.cpp">
-      <Filter>소스 파일\5장_탐색</Filter>
-    </ClCompile>
-    <ClCompile Include="boj13023.cpp">
-      <Filter>소스 파일\5장_탐색</Filter>
-    </ClCompile>
-    <ClCompile Include="boj1260.cpp">
-      <Filter>소스 파일\5장_탐색</Filter>
-    </ClCompile>
-    <ClCompile Include="boj2178.cpp">
-      <Filter>소스 파일\5장_탐색</Filter>
+    <ClCompile Include="boj1920.cpp">
+      <Filter>소스 파일\5장_탐색\이진탐색</Filter>
     </ClCompile>
     <ClCompile Include="boj1167.cpp">
-      <Filter>소스 파일\5장_탐색</Filter>
+      <Filter>소스 파일\5장_탐색\BFS</Filter>
     </ClCompile>
-    <ClCompile Include="boj1920.cpp">
-      <Filter>소스 파일\5장_탐색</Filter>
+    <ClCompile Include="boj2178.cpp">
+      <Filter>소스 파일\5장_탐색\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="boj1260.cpp">
+      <Filter>소스 파일\5장_탐색\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="boj2023.cpp">
+      <Filter>소스 파일\5장_탐색\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="boj11724.cpp">
+      <Filter>소스 파일\5장_탐색\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="boj13023.cpp">
+      <Filter>소스 파일\5장_탐색\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="boj2343.cpp">
+      <Filter>소스 파일\5장_탐색\이진탐색</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
