@@ -132,6 +132,9 @@
     <ClCompile Include="boj1167.cpp">
       <Filter>소스 파일\5장_탐색</Filter>
     </ClCompile>
+    <ClCompile Include="boj1920.cpp">
+      <Filter>소스 파일\5장_탐색</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="boj1167.h">
