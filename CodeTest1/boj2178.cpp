@@ -7,7 +7,9 @@ static int dy[] = { 1 , 0,-1,0 };
 static int A[101][101];
 static bool visited[101][101] = { false };
 static int N, M;
+
 void BFS(int i, int j);
+
 int main()
 {
 	ios::sync_with_stdio(false);
@@ -27,6 +29,7 @@ int main()
 	}
 
 	BFS(0, 0);
+
 	cout << A[N - 1][M - 1] << "\n";
 }
 

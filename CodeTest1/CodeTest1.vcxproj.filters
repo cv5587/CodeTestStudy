@@ -147,9 +147,18 @@
     <ClCompile Include="boj2343.cpp">
       <Filter>소스 파일\5장_탐색\이진탐색</Filter>
     </ClCompile>
+    <ClCompile Include="boj1300.cpp">
+      <Filter>소스 파일\5장_탐색\이진탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="boj4963.cpp">
+      <Filter>소스 파일\5장_탐색\BFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="boj1167.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="boj4963.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

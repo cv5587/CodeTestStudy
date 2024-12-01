@@ -44,6 +44,7 @@ int main()
 		if (sum != 0) {
 			count++;
 		}
+
 		if (count > M) {
 			start = middle + 1;
 		}
